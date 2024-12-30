@@ -90,13 +90,6 @@
 
 ---
 
-## Potential Add-ons (Not Implemented)
-
-- **Mobility Items**: Thrusters, jetpacks, and shields.
-- **Additional Maps**: More levels for variety and replayability.
-
----
-
 ## Tools and Technologies Used
 
 - **Engine**: Unity  
@@ -122,12 +115,14 @@
 
 ---
 
-## Future Improvements
+## Potential Add-ons and Future Improvements
 
-- Additional maps and environments.
-- More alien types with advanced behaviors.
-- Utility and mobility items to enhance gameplay.
-- Multiplayer support.
+- **Mobility Items**: Thrusters, jetpacks, and shields to enhance gameplay.  
+- **Additional Maps**: More levels for variety and replayability.  
+- **New Alien Types**: Advanced behaviors and abilities for added challenge.  
+- **Utility Items**: Defensive tools like barriers and decoys.  
+- **Multiplayer Support**: Cooperative and competitive modes.  
+- **Gameplay Enhancements**: Expanded upgrade systems and weapon modifications.
 
 ---
 
