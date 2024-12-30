@@ -1,0 +1,24 @@
+Assets/Animations/*
+Assets/Imported/*
+Assets/Materials/*
+Assets/Prefabs/*
+Assets/Scenes/*
+Assets/Scriptable Objects/*
+Assets/TextMesh Pro/*
+Assets/URP External/*
+
+Library/*
+Logs/*
+UserSettings/*
+Temp/*
+
+.DS_Store
+
+
+*.meta
+*.csproj
+*.Materials
+*.asset
+*.shader
+*.cginc
+*.mixer
