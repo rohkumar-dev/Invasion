@@ -2,13 +2,9 @@
 
 ### By Rohan Kumar
 
----
-
 ## Overview
 
 **Invasion** is a third-person shooter where players must defend the last 25 civilians on Earth from an alien invasion. With a variety of weapons and strategic gameplay mechanics, players must fend off waves of aliens and protect humanity from extinction.
-
----
 
 ## Features
 
@@ -21,16 +17,12 @@
 - **Civilian AI**: Civilians react dynamically to threats and must be protected.
 - **Replayability**: Procedurally spawned enemies and multiple strategies for success.
 
----
-
 ## High-Level Design
 
 - **Type**: Third-Person Shooter  
 - **Target Audience**: 10-40 years old  
 - **Tone**: Goofy and light-hearted with cartoony visuals  
 - **Theme**: "Protect by shooting"—Save civilians by exterminating alien threats.  
-
----
 
 ## Controls
 
@@ -39,8 +31,6 @@
 - **Jump**: `Spacebar`  
 - **Reload**: `R`  
 - **Aim and Shoot**: Mouse  
-
----
 
 ## Alien Types and AI Pathfinding
 
@@ -64,8 +54,6 @@
 - **Pathfinding**: Locks onto the nearest civilian and stops moving once within range.  
 - **Behavior**: Does not switch targets after locking in.
 
----
-
 ## Game Loop
 
 1. Spawn with access to all weapons.
@@ -73,22 +61,16 @@
 3. Use vending machines to upgrade weapons.
 4. Survive until all waves are cleared or civilians are lost.
 
----
-
 ## Art and Sound Design
 
 - **Art Style**: Cartoony and light-hearted.
 - **Animations**: Goofy, with comical movements for civilians and aliens.
 - **Sound Design**: Intense background music during gameplay and humorous effects for civilians.
 
----
-
 ## Challenges
 
 - **AI Pathfinding**: Balancing complexity with performance to handle large numbers of enemies.
 - **Animation Rigging**: Creating intuitive and polished animations for alien attacks.
-
----
 
 ## Tools and Technologies Used
 
@@ -97,8 +79,6 @@
 - **Audio Engine**: FMOD (planned integration)  
 - **Pathfinding**: Unity NavMesh for AI behaviors  
 
----
-
 ## How to Play
 
 1. Use `WASD` to move and `Shift` to sprint.
@@ -106,14 +86,10 @@
 3. Upgrade weapons using vending machines.
 4. Survive all waves to win the game.
 
----
-
 ## Known Issues
 
 - Civilians may occasionally run toward aliens due to simplistic AI.
 - Performance drops at higher wave counts may occur; optimization planned.
-
----
 
 ## Potential Add-ons and Future Improvements
 
@@ -123,14 +99,6 @@
 - **Utility Items**: Defensive tools like barriers and decoys.  
 - **Multiplayer Support**: Cooperative and competitive modes.  
 - **Gameplay Enhancements**: Expanded upgrade systems and weapon modifications.
-
----
-
-## Credits
-
-- **Developer**: Rohan Kumar
-
----
 
 ## License
 
